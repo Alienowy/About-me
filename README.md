@@ -9,7 +9,7 @@ My tester's portfolio.
 * Github - Porfolio
 * ScreenPresso - Screen capture software
 * TestLink - Test Management Tool
-* Mantis - Bug tracking system
+* [Mantis](https://www.mantisbt.org/)
 # Tech skills
 * MS SQL
 * DevTools
