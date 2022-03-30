@@ -29,3 +29,15 @@ My tester's portfolio.
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 * [UI/UX JUNIORS - ROZWÓJ | PRACA](https://www.facebook.com/groups/895939494188488)
+
+# Recommended blogs
+* [https://pwicherski.gitbook.io/](https://pwicherski.gitbook.io/)
+* [https://remigiuszbednarczyk.pl/](https://remigiuszbednarczyk.pl/)
+
+# Webinars
+
+# My test case examples
+
+# My bug reports
+
+
