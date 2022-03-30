@@ -13,3 +13,19 @@ My tester's portfolio.
 # Tech skills
 * MS SQL
 * DevTools
+* Creating test cases
+* Reporting bugs
+* Creating diagrams
+# Certificates
+
+# Courses
+* [Akademia Testowania Online](https://testuj.pl/karta-szkolenia/szkolenie-akademia-testowania)
+* SQL- Course
+
+# Books
+* Steve Krug - "Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych."
+
+# Groups on Facebook
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [UI/UX JUNIORS - ROZWÓJ | PRACA](https://www.facebook.com/groups/895939494188488)
