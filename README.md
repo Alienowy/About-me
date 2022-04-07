@@ -11,7 +11,7 @@ My tester's portfolio.
 * [TestLink](https://testlink.org/) - Test Management Tool
 * [Mantis](https://www.mantisbt.org/) - Bug tracking system
 # Tech skills
-* MS SQL (In progress)
+* MS SQL
 * DevTools
 * Creating test cases
 * Reporting bugs
@@ -20,7 +20,7 @@ My tester's portfolio.
 
 # Courses
 * [Akademia Testowania Online](https://testuj.pl/karta-szkolenia/szkolenie-akademia-testowania)
-* SQL- Course
+* SQL- Course (In progress)
 
 # Books
 * Steve Krug - "Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych."
