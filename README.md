@@ -11,7 +11,7 @@ My tester's portfolio.
 * [TestLink](https://testlink.org/) - Test Management Tool
 * [Mantis](https://www.mantisbt.org/) - Bug tracking system
 # Tech skills
-* MS SQL
+* MS SQL (In progress)
 * DevTools
 * Creating test cases
 * Reporting bugs
