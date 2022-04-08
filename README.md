@@ -1,7 +1,15 @@
 # AdrianWąś-Portfolio
 My tester's portfolio.
 # About me
-  Hi, I am Adrian. I am here because I want to change my career path. Before, I have worked as a chimney sweep. Now, I am learning manual testing. I am attending a course, which helps me take my first steps in the profession. In the future, I would like to fulfill myself as a tester. The opportunity to raise my qualifications gives me a lot of motivation, that is why I am looking for a place where I can develop. Working as a chimney sweep, I have learnt to talk to people. I can work in groups, but working alone is also no problem to me. Working in the office required accuracy from me, which I can use it in a manual tester profession. My perfectionism makes me pay attention to details. Ambition forces me to improve myself. I am creative and open to new experiences. I have a wide range of interests. In winter I love snowboarding, in summer I put on roller skates. I appreciate the handcrafts. Manual skills allow me to fulfill myself artistically. Sometimes it is a drawing, sometimes it is a wooden table or a concrete pot. I would like to learn horse riding. to be able to roam the forests like Gerald on his Roach. I try to be open to people and the world.
+Hello, I am Adrian. I am here on GitHub because I want to set out on my new career path. Previously I worked as a chimney sweep but also ran the office and did the accountancy. Now I am learning Manual Testing on a course which helps me take my first steps in that new profession. In the future I would like to work as a Tester.
+
+Any opportunity to improve my qualifications gives me a lot of motivation. That is why I am looking for a creative place where I could develop my new skills. Working as a chimney sweep, I learnt to enjoy talking to people. I am a good team player but, if needed, I am also happy to work on my own. Working in the office required accuracy, which I can use in the manual tester profession, where attention to detail is the key. 
+
+My ambition encourages me to improve myself. I am creative and open to new experiences as I have a wide range of interests, from snowboarding to roller skating. I also appreciate handcrafts. My manual skills allow me to fulfill myself artistically. Sometimes it is a drawing. Sometimes it is a wooden table. And sometimes
+a concrete flower pot. I would like to learn horse riding to roam forests like Gerald on his Roach. 
+
+All in all, I am open to people and the world.
+
 
 # Tools
 * [Trello](https://trello.com/) - Issue tracking and project management tool for developers
