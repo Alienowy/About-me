@@ -15,7 +15,7 @@ All in all, I am open to people and the world.
 * [Trello](https://trello.com/) - Issue tracking and project management tool for developers
 * [Bug Magnet](https://bugmagnet.org/) - Exploratory testing assistant for Chrome and Firefox
 * [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-* [Github](https://github.com/) - Porfolio
+* [Github](https://github.com/) - Portfolio
 * [ScreenPresso](https://www.screenpresso.com/) - Screen capture software
 * [TestLink](https://testlink.org/) - Test Management Tool
 * [Mantis](https://www.mantisbt.org/) - Bug tracking system
