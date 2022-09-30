@@ -46,10 +46,6 @@ All in all, I am open to people and the world.
 * [https://pwicherski.gitbook.io/](https://pwicherski.gitbook.io/)
 * [https://remigiuszbednarczyk.pl/](https://remigiuszbednarczyk.pl/)
 
-# Webinars
 
-# My test case examples
-
-# My bug reports
 
 
