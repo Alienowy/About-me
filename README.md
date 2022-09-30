@@ -19,13 +19,18 @@ All in all, I am open to people and the world.
 * [ScreenPresso](https://www.screenpresso.com/) - Screen capture software
 * [TestLink](https://testlink.org/) - Test Management Tool
 * [Mantis](https://www.mantisbt.org/) - Bug tracking system
+
 # Tech skills
 * MS SQL
 * DevTools
 * Creating test cases
 * Reporting bugs
 * Creating diagrams
+
 # Certificates
+* ISTQB ® Certified Tester Foundation Level 
+Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board)
+Wydany 08/2022
 
 # Courses
 * [Akademia Testowania Online](https://testuj.pl/karta-szkolenia/szkolenie-akademia-testowania)
