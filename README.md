@@ -29,7 +29,7 @@ All in all, I am open to people and the world.
 
 # Certificates
 * ISTQB ® Certified Tester Foundation Level 
-Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board)
+Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board) 
 Wydany 08/2022
 
 # Courses
