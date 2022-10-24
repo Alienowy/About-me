@@ -1,4 +1,4 @@
-# AdrianWąś-Portfolio
+# Adrian Wąś CV
 
 # About me
 Hello, I am Adrian. I am here on GitHub because I want to set out on my new career path. Previously I worked as a chimney sweep but also ran the office and did the accountancy. Now I am learning Manual Testing on a course which helps me take my first steps in that new profession. In the future I would like to work as a Tester.
