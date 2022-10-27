@@ -5,31 +5,13 @@ Previously I worked as a chimney sweep. Now I am learning Manual Testing. Any op
 
 All in all, I am open to people and the world.
 
-
-# Tools
-* Jira
-* Trello
-* Bug Magnet
-* ScreenPresso
-* TestLink
-* Mantis
-* Git/GitHub
-* Brackets
-* Brackets-Git
-
-# Tech skills
-* Creating test cases
-* Reporting bugs
-* Creating diagrams
-* Basics knowledge about HTML/CSS, DevTools
-
-
-# Certificates
+#  My Certificates
 * ISTQB ® Certified Tester Foundation Level 
 
-# Courses
+# Trainings
 * Akademia Testowania
 * SQL Basics - https://www.udemy.com/course/learn-sqlmysql-database-basics-for-free/
+* Webinar: Agile w Jira - https://www.youtube.com/watch?v=wppJki3BRM4&t=2302s&ab_channel=TTPSC-AtlassianSolutionPartner
 * Utest Academy
 
 # Books
