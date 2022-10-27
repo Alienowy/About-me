@@ -29,7 +29,7 @@ All in all, I am open to people and the world.
 
 # Courses
 * Akademia Testowania
-* Introduction to Front-End Development
+* SQL Basics - https://www.udemy.com/course/learn-sqlmysql-database-basics-for-free/
 * Utest Academy
 
 # Books
